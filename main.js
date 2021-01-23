@@ -52,5 +52,5 @@ const userTwo = {
 
 for (let key in userTwo) {
   console.log(userTwo[key]); //values
-  // console.log(userTwo)
-}
+  // console.log(userTwo.key); //values noooooo
+} 
